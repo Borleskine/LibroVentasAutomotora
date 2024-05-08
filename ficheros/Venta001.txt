@@ -1,0 +1,4 @@
+Patente del vehículo: Rojo
+Edad del cliente: 35
+Fecha de la venta: 01102020
+Nombre de venta: Venta001
